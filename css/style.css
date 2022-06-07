@@ -1,0 +1,51 @@
+*{
+    margin: 0 auto; /*margem no 0*/
+    padding: 0; /*pontinho de lista, 0 tbm*/
+    box-sizing: border-box; /*faz remover as bordas de dentro 
+    dos pixels do meio. Ex.: de 20x tira 5 de cada lado*/
+}
+
+#barra-h{
+    list-style: none;
+    padding: 0;
+    background-color: rgb(66, 153, 187);
+}
+
+#barra-h li{
+    display: inline;
+}
+
+
+#barra-h li a{
+    display: inline-block;
+
+}
+
+h1 {
+    border-top: 0,5px;
+    border-style: double;
+    font-size: normal 20pt ;
+}
+
+
+
+
+body{
+    background-color: black; 
+    color: white;
+    font: normal 15pt arial;
+    margin: 90;
+    
+
+    
+    
+    /*  940 x 2889.110 tamanho da borda do site aleatorio */
+    /* pastor Ricardo, margem 56 por 0*/
+    /*pastor Ricardo 1349 x 480*/
+   
+}
+h1 {text-align:top;}
+    
+.corVermelha{ color: red;
+    
+} 
